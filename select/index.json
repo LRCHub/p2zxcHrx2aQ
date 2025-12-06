@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ナンセンス",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-06T21:46:56.180677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/01_アブストラクト・ナンセンス_Neru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": false,
+      "path": "select/02_アブストラクト・ナンセンス_Neru_feat._鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru; 鏡音リン",
+      "has_synced": false,
+      "path": "select/03_アブストラクト・ナンセンス_Neru;_鏡音リン.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat. Rin Kagamine",
+      "has_synced": false,
+      "path": "select/04_アブストラクト・ナンセンス_Neru_feat._Rin_Kagamine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat. Kagamine, Rin",
+      "has_synced": true,
+      "path": "select/05_アブストラクト・ナンセンス_Neru_feat._Kagamine,_Rin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ナンセンス",
+      "artist": "ЯeaL",
+      "has_synced": true,
+      "path": "select/06_ナンセンス_ЯeaL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat.鏡音リン、鏡音レン",
+      "has_synced": false,
+      "path": "select/07_アブストラクト・ナンセンス_Neru_feat.鏡音リン、鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_アブストラクト・ナンセンス_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Farm Records",
+      "has_synced": false,
+      "path": "select/09_アブストラクト・ナンセンス_Farm_Records.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス (feat. Kagamine Rin)",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/10_アブストラクト・ナンセンス_(feat._Kagamine_Rin)_Neru.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat. Kagamine Rin, Kagamine Len",
+      "has_synced": false,
+      "path": "select/11_アブストラクト・ナンセンス_Neru_feat._Kagamine_Rin,_Kagamine_Len.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/12_アブストラクト・ナンセンス_Neru.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/13_アブストラクト・ナンセンス_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アブストラクト・ナンセンス",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_アブストラクト・ナンセンス_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ナンセンス・ハビット",
+      "artist": "Akari Nanawo",
+      "has_synced": true,
+      "path": "select/15_ナンセンス・ハビット_Akari_Nanawo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナンセンス",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_ナンセンス_Penthouse.txt"
+    }
+  ]
+}
